@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AsyncExample</string>
+    <string name="ok">Вычислить</string>
+    <string name="compute">Ожидаем запуска вычислений</string>
+</resources>
